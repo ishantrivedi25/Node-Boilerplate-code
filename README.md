@@ -1,6 +1,6 @@
 # Node Boilerplate code
 
-This code is just a skeleton structure to build APIs for Web, App and CMS with node & express.
+This code is just a skeleton structure to build RESTful APIs for Web, App and CMS with node & express.
 
 ## Installation
 
